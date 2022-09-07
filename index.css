@@ -1,0 +1,43 @@
+.navbar {
+    background-color: black;
+    color: white;
+}
+
+.card{
+    border: 0px solid white;
+}
+
+#carouselExampleControls{
+    align-items: center ;
+    justify-content: center;
+    width: 650px;
+    margin-left: 550px;
+}
+
+/* Vertical menu */
+
+.vertical-menu {
+    width: 200px;
+  }
+  
+  .vertical-menu a {
+    background-color: white;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+  }
+  
+  .vertical-menu a:hover {
+    background-color: #ccc;
+  }
+
+
+  footer{
+    color: white;
+    height: 150px;
+  }
+
+  footer spam:hover{
+    text-decoration: underline;
+  }
